@@ -1,2 +1,3 @@
 ceci est un fichier se trouvant seulement sur la branche Bambou
 et qui vient d'être merge sur la branche master
+et qui sert a créer un conflit de mere de test
